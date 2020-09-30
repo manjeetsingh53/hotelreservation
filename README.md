@@ -14,4 +14,15 @@ http://hotelreservation.us-east-2.elasticbeanstalk.com/
 2. Run Maven Install.
 3. Run using Tomcat server.
 
-# Steps to create & deploy application
+# Steps to create & deploy application on Eclipse / Tomcat (AWS Elastic Beanstalk for Tomcat):
+
+### Prequisite:
+AWS SDK should be configured on your Eclipse. 
+To configure AWS SDK please use below link: 
+http://d1un85p0f2qstc.cloudfront.net/eclipse/elasticbeanstalk/index.html
+
+1. Download hotelreservation application. 
+2. Unzip it to your Eclipse workspace.
+3. Import using Import Existing project into your workspace option.
+2. Run Maven Install.
+3. Run using Tomcat server.
