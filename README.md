@@ -1,4 +1,4 @@
-# Hotel Reservation Website using AWS (Spring MVC)
+# Hotel Reservation Website using AWS (Elastic Beanstalk)
 Hotel Reservation Website: This is a Demo of how to deploy and run Spring MVC Application to AWS ElasticBeanstalk.
 
 # Steps to create & deploy application on Eclipse / Tomcat server (Local):
