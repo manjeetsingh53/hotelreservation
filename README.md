@@ -1,5 +1,5 @@
 # Hotel Reservation Website using AWS (Elastic Beanstalk)
-Hotel Reservation Website: This is a Demo of how to deploy and run Spring MVC Application to AWS ElasticBeanstalk.
+Hotel Reservation Website: This is a Demo of how to Build & Deploy Spring MVC Application using AWS ElasticBeanstalk.
 
 # Live Demo:
 http://hotelreservation.us-east-2.elasticbeanstalk.com/
